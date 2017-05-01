@@ -1,0 +1,21 @@
+{
+  "name": "lifexplorer",
+  "authors": [
+    "Stefano <stefano@stepo.biz>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "datatables.net": "^1.10.15",
+    "datatables.net-bs": "^2.1.1"
+  }
+}
